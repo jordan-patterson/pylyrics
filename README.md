@@ -1,3 +1,3 @@
 # pylyrics
 
-## Search and view your favorite song lyrics from the command line.
+## Search and view song lyrics from the command line. Add songs to your list of favorites to easily view them again.
